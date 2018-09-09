@@ -1,0 +1,1 @@
+Requires this asset from the Unity Asset Store. This is the skybox asset.
